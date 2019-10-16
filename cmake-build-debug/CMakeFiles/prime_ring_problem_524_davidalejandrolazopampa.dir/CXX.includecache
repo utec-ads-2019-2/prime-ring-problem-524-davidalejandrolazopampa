@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David Lazo/Documents/GitHub/prime-ring-problem-524-davidalejandrolazopampa/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+bitset
+-
+cstring
+-
+
